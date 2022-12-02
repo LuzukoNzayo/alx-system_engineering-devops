@@ -1,1 +1,1 @@
-15. Symbolic links
+6. Multiple permissions
