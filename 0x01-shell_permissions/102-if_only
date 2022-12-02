@@ -1,1 +1,2 @@
-e #!/bin/bash/n chown --from=guilaume betty hello
+#!/bin/bash
+ chown --from=gillaume betty hello
